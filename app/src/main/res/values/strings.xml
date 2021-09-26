@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyMath</string>
+    <string name="application">MatheMatrix</string>
+    <string name="creator">©Eric Mkrtchyan</string>
+    <string name="det">Determinant</string>
+    <string name="answer">Answer</string>
+    <string name="input_title">Input size</string>
+    <string name="exit">Exit</string>
+    <string-array name="menu">
+        <item>Determinant</item>
+        <item>Inverse</item>
+        <item>Multiply</item>
+    </string-array>
+    <string name="solve">Solve</string>
+    <string name="next">Next</string>
+    <string name="ok">OK</string>
+    <string name="inputN">Matrix row and column size</string>
+    <string name="first">First matrix</string>
+    <string name="second">Second matrix</string>
+    <string name="row">Row size</string>
+    <string name="col">Column size</string>
+    <string name="error">Number must be greater than 1 and less than 9</string>
+    <string name="errortitle">First matrix column size must be equal "\n" to second matrix row size</string>
+    <string name="inputsize">Please input sizes</string>
+    <string name="rowsizeerror">Row size must be greater than 1 and less than 6</string>
+    <string name="colsizeerror">Column size must be greater than 1 and less than 9</string>
+</resources>
